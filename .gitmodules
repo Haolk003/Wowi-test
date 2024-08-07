@@ -1,0 +1,3 @@
+[submodule "server2"]
+	path = server2
+	url = https://github.com/Haolk003/Wowi-server.git
