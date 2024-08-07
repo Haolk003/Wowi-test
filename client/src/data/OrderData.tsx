@@ -1,0 +1,60 @@
+const OrderData = [
+  {
+    id: "TXN73547248764",
+    type: "buy",
+    coin: "bitcoin",
+    date: "02/10/2023 11:37 PM",
+    usdAmount: "4,565.75 USD",
+    amount: "+ 0.2040 BTC",
+  },
+  {
+    id: "TXN35345435345",
+    type: "buy",
+    coin: "ethereum",
+    date: "02/10/2023 10:37 PM",
+    usdAmount: "2,039.39 USD",
+    amount: "+ 0.12600 BTC",
+  },
+  {
+    id: "TXN43534543543",
+    type: "sell",
+    coin: "bitcoin",
+    date: "02/10/2023 10:45 PM",
+    usdAmount: "9,285.71 USD",
+    amount: "- 0.94750 BTC",
+  },
+  {
+    id: "TXN34545464633",
+    type: "sell",
+    coin: "ethereum",
+    date: "02/11/2023 10:25 PM",
+    usdAmount: "12,596.75 USD",
+    amount: "- 1.02050 BTC",
+  },
+  {
+    id: "TXN98989897677",
+    type: "buy",
+    coin: "bitcoin",
+    date: "02/10/2023 11:37 PM",
+    usdAmount: "400.00 USD",
+    amount: "+ 0.00056 BTC",
+  },
+  {
+    id: "TXN73547248764",
+    type: "sell",
+    coin: "ethereum",
+    date: "02/09/2023 05:15 PM",
+    usdAmount: "6,246.50 USD",
+    amount: "- 0.02575 BTC",
+  },
+  {
+    id: "TXN73547248764",
+    type: "buy",
+    coin: "bitcoin",
+    date: "02/10/2023 11:37 PM",
+    usdAmount: "4,565.75 USD",
+    amount: "+ 0.2040 BTC",
+  },
+];
+
+export default OrderData;
